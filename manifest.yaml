@@ -1,0 +1,4 @@
+name: teracy-dev-validator
+version: "0.1.0-SNAPSHOT"
+description: teracy-dev validator extension provides utility for other extensions to validate its yaml values
+target: ">= 0.6.0-a5, < 0.7.0"

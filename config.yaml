@@ -1,0 +1,5 @@
+vagrant:
+  plugins:
+    - name: json-schema
+      version: ""
+      state: installed
